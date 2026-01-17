@@ -34,8 +34,8 @@ I thrive in creating robust backend systems, automating infrastructure, and buil
 
 ### 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rishik-reddy-vaka-985048194/)
-- 🌐 [Portfolio](https://rishikvaka.framer.website/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/naga-sai-vaka-b50411393/)
+- 🌐 [Portfolio](https://portfolio-imsd8wfb1-rishikvaka28s-projects.vercel.app/)
 - 📧 Email: `rishikvaka28@gmail.com`
 
 ---
